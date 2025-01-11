@@ -1,0 +1,381 @@
+.navbar1 {
+  height: 5vh;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  background-color: white;
+}
+.navbar2 {
+  display: flex;
+  width: 40%;
+  font-size: 19px;
+  text-align: center;
+  gap: 26px;
+  font-family: ui-monospace;
+  font-weight: bold;
+
+  text-align: center;
+  align-items: center;
+}
+.navbar3 {
+  display: flex;
+  width: 60%;
+  font-size: 20px;
+  align-items: center;
+  gap: 18px;
+  margin-right: 68px;
+  justify-content: end;
+}
+.imagenav {
+  width: 45%;
+  gap: 10px;
+}
+
+.navbar4 {
+  height: 10vh;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  background-color: white;
+}
+
+.logo1 {
+  height: 60px;
+  width: 70px;
+}
+.namelogo {
+  height: 44px;
+  width: 130px;
+}
+.detail {
+  display: flex;
+  gap: 20px;
+  justify-content: end;
+  width: 55%;
+  margin: 0px 50px;
+  font-size: 23px;
+  align-items: center;
+  font-family: ui-monospace;
+  font-weight: bold;
+}
+.bgimg {
+  background-image: url(./image/docter\ bgimg.jfif);
+  height: 77vh;
+  width: 100%;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: #00000054;
+  background-blend-mode: overlay;
+}
+.welcomefull {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 167px;
+}
+.welcomestyle {
+  font-size: 25px;
+  color: white;
+  font-family: fantasy;
+}
+
+.welcomestyle1 {
+  font-size: 61px;
+  color: white;
+}
+.imagebg {
+  width: 40%;
+}
+.img1 {
+  height: 100%;
+  width: 58%;
+  display: flex;
+}
+.button1 {
+  height: 44px;
+  width: 130px;
+  border: 1px solid black;
+  border-radius: 31px;
+}
+.button2 {
+  height: 44px;
+  width: 143px;
+  border-radius: 31px;
+  color: white;
+  border: 1px solid white;
+  background-color: #ffe4c400;
+}
+.button {
+  color: white;
+  margin-top: 34px;
+}
+.cardfull {
+  width: 100%;
+  display: flex;
+  margin-top: 30px;
+  justify-content: space-evenly;
+  height: 80vh;
+  gap: 45px;
+  padding: 0px 40px;
+}
+.leftside {
+  width: 40%;
+}
+.cardimg {
+  width: 100%;
+  height: 80vh;
+}
+.rightside {
+  width: 50%;
+  padding-top: 39px;
+}
+.aboutstyle {
+  font-size: 22px;
+  font-weight: 700;
+  color: #00c8df;
+}
+.about2style {
+  font-size: 42px;
+}
+.font1 {
+  display: flex;
+  font-size: 70px;
+  justify-content: space-around;
+}
+.qualitysize {
+  font-size: 16px;
+  text-align: center;
+}
+
+.servicetop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+}
+.fontweight1 {
+  font-weight: 900;
+}
+.fontweight2 {
+  font-size: 30px;
+  font-weight: 700;
+  color: #00c8df;
+}
+.cardfullbox {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+.cardfullbox1 {
+  height: 60vh;
+  align-items: center;
+  width: 27%;
+  gap: 20px;
+  display: flex;
+  padding-top: 50px;
+  color: #1c5693;
+  text-align: center;
+  flex-direction: column;
+}
+
+.cardboximg {
+  height: 120px;
+  width: 120px;
+  font-size: 60px;
+  background-color: #00c8df;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+
+  border-radius: 55%;
+}
+.paragarphstyle {
+  text-align: center;
+  width: 83%;
+}
+.bookfull {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #00c8df;
+}
+.bookleftside {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+  padding-left: 70px;
+}
+.makestyle {
+  font-size: 43px;
+  color: #172a4d;
+  font-weight: 900;
+}
+
+.button3 {
+  color: white;
+  margin-top: 34px;
+  gap: 39px;
+  display: flex;
+}
+
+.button4 {
+  height: 44px;
+  width: 130px;
+  color: white;
+  background-color: #1c5693;
+  border: 1px solid black;
+  border-radius: 31px;
+}
+
+.button5 {
+  height: 44px;
+  width: 143px;
+  font-weight: 700;
+  border-radius: 31px;
+  color: #1c5693;
+  border: 1px solid #1c5693;
+  background-color: #ffe4c400;
+}
+.bookrightside {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.bookrightsidefull {
+  height: 67vh;
+  width: 70%;
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  gap: 39px;
+  display: flex;
+  flex-direction: column;
+}
+.book1 {
+  font-size: 30px;
+  font-weight: 900;
+  margin-top: 24px;
+  text-align: center;
+}
+.selectbox {
+  gap: 10px;
+  display: flex;
+}
+.buttonbox1 {
+  height: 35px;
+  width: 187px;
+  border: none;
+}
+
+.buttonbox2 {
+  height: 35px;
+  width: 187px;
+  border: none;
+}
+.inputbox1 {
+  gap: 10px;
+  display: flex;
+  height: 35px;
+}
+
+.inputbox2 {
+  gap: 10px;
+  display: flex;
+  height: 35px;
+  border: none;
+}
+
+.makeon {
+  width: 311px;
+  border-radius: 4px;
+  height: 34px;
+  border: none;
+  color: white;
+  background-color: #00c8df;
+}
+.title {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.medical1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.medical2 {
+  font-size: 50px;
+  font-weight: 900;
+}
+
+.card1 {
+  height: 82vh;
+  width: 25%;
+  text-align: center;
+}
+
+.cardbgimg {
+  background-image: url(./image/card\ bg\ img\ 2.jpg);
+  height: 35vh;
+  width: 100%;
+  border-radius: 10px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: rgba(29, 42, 77, 0.8);
+  background-blend-mode: overlay;
+}
+.span1 {
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+}
+.spansub {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+}
+.spanhead {
+  text-align: center;
+  padding: 60px 0px;
+}
+.parahead {
+  align-items: center;
+  text-align: center;
+  /* color: white; */
+  margin-top: 25px;
+}
+.buttonbox3 {
+  margin-top: 25px;
+  color: white;
+  background-color: #00c8df;
+  height: 43px;
+  text-align: center;
+  align-items: center;
+  width: 135px;
+  border-radius: 22px;
+  border: none;
+}
+.cardfull2 {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-evenly;
+}
+.cardbgimg1 {
+  background-image: url(./image/doctor\ pragancy\ img.jfif);
+  height: 35vh;
+  width: 100%;
+  border-radius: 10px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: rgba(29, 42, 77, 0.8);
+  background-blend-mode: overlay;
+}
+.paymentlogo {
+  height: 40px;
+  width: 100px;
+}
